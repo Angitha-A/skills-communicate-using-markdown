@@ -7,3 +7,6 @@ This is my first time using GitHub.
 
 ### Next  
 I will try to finish this activity.
+
+## My Image  
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)
