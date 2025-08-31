@@ -6,13 +6,16 @@ This is my first time using GitHub.
 - I don’t know much yet 😁  
 
 ### Next  
-I will try to finish this activity.
+I will try to finish this activity.  
+
+---
 
 ## My Image  
-![Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)  
+
+---
 
 ## My Code Example  
-
 ```javascript
 let message = "Hello, Markdown!";
 console.log(message);
