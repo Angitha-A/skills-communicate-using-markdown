@@ -20,3 +20,7 @@ I will try to finish this activity.
 let message = "Hello, Markdown!";
 console.log(message);
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
